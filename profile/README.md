@@ -1,3 +1,10 @@
+<p align="center" class="brand-mark">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="brand/robotex-mark-dark.png">
+    <img src="brand/robotex-mark.png" alt="RoboteX Labs" width="140">
+  </picture>
+</p>
+
 # RoboteX Labs Inc.
 
 RoboteX investigates robotics and neurotechnology, including assistive concepts, sensing, adaptive control and simulation. Public work should distinguish software or simulated results from physical-device, human-use or clinical validation.
