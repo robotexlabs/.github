@@ -11,8 +11,8 @@ RoboteX investigates robotics and neurotechnology, including assistive concepts,
 
 ## Open by design
 
-**We build in the open.** RoboteX Labs Inc. publishes its tools, methods and learning materials under open licences (usually Apache-2.0 for code and CC BY 4.0 for written material), so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
+**We plan to publish our robotic simulations and interface models openly.** We have not published any yet. When we do, they will carry open licences (usually Apache-2.0 for code and CC BY 4.0 for written material), so public-interest teams can use them, check how they work and adapt them freely. Open work is easier to trust, because anyone can see exactly how a result is produced.
 
-**Our own work, and only ours.** Everything we publish here is our own, built from public data and synthetic examples. It never includes client data, client projects, or anyone else's confidential information or intellectual property.
+**Our own work, and only ours.** Everything we publish here will be our own, built from public data and synthetic examples. It will never include client data, client projects, or anyone else's confidential information or intellectual property.
 
 Contact: info@robotexlabs.ca | Website: https://robotexlabs.ca/
