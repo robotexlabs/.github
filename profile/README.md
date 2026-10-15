@@ -17,6 +17,6 @@ RoboteX investigates robotics and neurotechnology, including assistive concepts,
 
 ## Public projects
 
-- [myoshift](https://github.com/robotexlabs/myoshift): a reproducible evaluation of surface EMG command detection when the participant, session or electrode placement changes. A public-data research demonstration, not a medical device.
+- [myoshift](https://github.com/robotexlabs/myoshift): a reproducible evaluation of surface EMG command detection across participants, sessions and simulated electrode shifts. A public-data research demonstration, not a medical device.
 
 Contact: info@robotexlabs.ca | Website: https://robotexlabs.ca/
