@@ -7,7 +7,7 @@
 
 # RoboteX Labs Inc.
 
-RoboteX investigates robotics and neurotechnology, including assistive concepts, sensing, adaptive control and simulation. Public work should distinguish software or simulated results from physical-device, human-use or clinical validation.
+RoboteX investigates robotics and neurotechnology, including assistive concepts, sensing, adaptive control and simulation. Its public work so far is myoshift, a reproducible evaluation of surface EMG command detection across people, sessions and electrode shifts, reported as a negative result on public data. Public work should distinguish software or simulated results from physical-device, human-use or clinical validation.
 
 ## Open by design
 
@@ -20,3 +20,5 @@ RoboteX investigates robotics and neurotechnology, including assistive concepts,
 - [myoshift](https://github.com/robotexlabs/myoshift): a reproducible evaluation of surface EMG command detection across participants, sessions and simulated electrode shifts. A public-data research demonstration, not a medical device.
 
 Contact: info@robotexlabs.ca | Website: https://robotexlabs.ca/
+
+Open-source parts made by others are credited where used.
